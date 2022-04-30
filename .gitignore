@@ -34,3 +34,6 @@ jspm_packages
 
 # Ignore ESLint files
 .eslintcache
+
+# Ignore API Keys
+giphyAPIKey.js
